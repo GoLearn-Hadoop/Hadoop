@@ -1,5 +1,4 @@
- Word Count Example - Pig Script
-Q) How to find the number of occurrences of the words in a file using the pig script?
+##Q) How to find the number of occurrences of the words in a file using the pig script?
 
 You can find the famous word count example written in map reduce programs in apache website. Here we will write a simple pig script for the word count problem.
 
